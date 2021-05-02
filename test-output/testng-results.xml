@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="9" passed="9">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="13253" started-at="2021-04-06T09:18:49Z" finished-at="2021-04-06T09:19:02Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="13253" started-at="2021-04-06T09:18:49Z" finished-at="2021-04-06T09:19:02Z">
+      <class name="April4.testInCompany.DaProvidRegister">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:April4.testInCompany.DaProvidRegister@4c70fda8]" name="setUp" is-config="true" duration-ms="2345" started-at="2021-04-06T14:48:47Z" finished-at="2021-04-06T14:48:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="loginTestCase()[pri:1, instance:April4.testInCompany.DaProvidRegister@4c70fda8]" name="loginTestCase" duration-ms="574" started-at="2021-04-06T14:48:49Z" finished-at="2021-04-06T14:48:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTestCase -->
+        <test-method status="PASS" signature="fillDetails(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:2, instance:April4.testInCompany.DaProvidRegister@4c70fda8]" name="fillDetails" duration-ms="1252" started-at="2021-04-06T14:48:50Z" data-provider="registerDetails" finished-at="2021-04-06T14:48:51Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Kiran]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[9898989898]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[kiran@gmail.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[123456]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fillDetails -->
+        <test-method status="PASS" signature="fillDetails(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:2, instance:April4.testInCompany.DaProvidRegister@4c70fda8]" name="fillDetails" duration-ms="1290" started-at="2021-04-06T14:48:51Z" data-provider="registerDetails" finished-at="2021-04-06T14:48:52Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Sagar]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[999999999]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[sagar@gmail.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[kkk]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fillDetails -->
+        <test-method status="PASS" signature="fillDetails(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:2, instance:April4.testInCompany.DaProvidRegister@4c70fda8]" name="fillDetails" duration-ms="1327" started-at="2021-04-06T14:48:52Z" data-provider="registerDetails" finished-at="2021-04-06T14:48:54Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Monica]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[1111111111]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[monica@gmail.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[lll]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fillDetails -->
+        <test-method status="PASS" signature="fillDetails(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:2, instance:April4.testInCompany.DaProvidRegister@4c70fda8]" name="fillDetails" duration-ms="1158" started-at="2021-04-06T14:48:54Z" data-provider="registerDetails" finished-at="2021-04-06T14:48:55Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Kimaya]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[999999999]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[kimaya@gmail.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[uuu]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fillDetails -->
+        <test-method status="PASS" signature="userpageTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:3, instance:April4.testInCompany.DaProvidRegister@4c70fda8]" name="userpageTest" duration-ms="2148" started-at="2021-04-06T14:48:55Z" data-provider="addUserDetails" finished-at="2021-04-06T14:48:57Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Kiran]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[kiran@gmail.com]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[9898989898]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Java/J2EE]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Male]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Maharashtra]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[123456]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- userpageTest -->
+        <test-method status="PASS" signature="userpageTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:3, instance:April4.testInCompany.DaProvidRegister@4c70fda8]" name="userpageTest" duration-ms="1851" started-at="2021-04-06T14:48:57Z" data-provider="addUserDetails" finished-at="2021-04-06T14:48:59Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Sagar]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[sagar@gmail.com]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[999999999]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Selenium]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Male]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Punjab]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[kkk]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- userpageTest -->
+        <test-method status="PASS" signature="userpageTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:3, instance:April4.testInCompany.DaProvidRegister@4c70fda8]" name="userpageTest" duration-ms="1565" started-at="2021-04-06T14:48:59Z" data-provider="addUserDetails" finished-at="2021-04-06T14:49:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Monica]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[monica@gmail.com]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[1111111111]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Python]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Female]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Maharashtra]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[lll]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- userpageTest -->
+        <test-method status="PASS" signature="userpageTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:3, instance:April4.testInCompany.DaProvidRegister@4c70fda8]" name="userpageTest" duration-ms="1808" started-at="2021-04-06T14:49:00Z" data-provider="addUserDetails" finished-at="2021-04-06T14:49:02Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Kimaya]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[kimaya@gmail.com]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[999999999]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[PHP]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Female]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Punjab]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[uuu]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- userpageTest -->
+      </class> <!-- April4.testInCompany.DaProvidRegister -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
